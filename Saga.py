@@ -75,7 +75,7 @@ def clear():
     os.system('clear')
     print(logo)
 #-------------main def------------#
-def MR_ITACHI():
+def MR_Saga():
     clear()
     os.system('xdg-open https://www.facebook.com/profile.php?id=61556151290704/')
     print(f'{B} [{warna}01{B}] RANDOM CLONING ')
