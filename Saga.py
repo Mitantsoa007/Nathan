@@ -45,27 +45,20 @@ loop=0
 #-------------logo-----------------#
 logo=(f'''{B}
 
-
-                                 
-  __  __                __       __                            
- /\ \/\ \              /\ \__   /\ \                           
- \ \ `\\ \      __     \ \ ,_\  \ \ \___       __       ___    
-  \ \ , ` \   /'__`\    \ \ \/   \ \  _ `\   /'__`\   /' _ `\  
-   \ \ \`\ \ /\ \L\.\_   \ \ \_   \ \ \ \ \ /\ \L\.\_ /\ \/\ \ 
-    \ \_\ \_\\ \__/.\_\   \ \__\   \ \_\ \_\\ \__/.\_\\ \_\ \_\
-     \/_/\/_/ \/__/\/_/    \/__/    \/_/\/_/ \/__/\/_/ \/_/\/_/
-                                                               
-                                                               
-                                 
-
-                                            
+                          
+       .dMMMb     .aMMMb    .aMMMMP     .aMMMb 
+      dMP" VP    dMP"dMP   dMP"        dMP"dMP 
+      VMMMb     dMMMMMP   dMP MMP"    dMMMMMP  
+    dP .dMP    dMP dMP   dMP.dMP     dMP dMP   
+    VMMMP"    dMP dMP    VMMMP"     dMP dMP    
+                                                                                    
 
 {warna}--------------------------------------------{B}
  Owner    : {M}RedFargun{M}
  TOOL NAME : {warna}{P}Nathan{P}{warna}
  STATUE : {H}PAID{H}
  Facebook : {bblue}Lŭčkã Sënt{bblue}
- Tools    : {warna}[{M}VERSION 0.1{warna}]{warna}
+ Tools    : {warna}[{M}VERSION 1.3{warna}]{warna}
 --------------------------------------------{B}''')
 #-------------linex def -------------#
 def linex():
