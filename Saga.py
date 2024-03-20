@@ -71,8 +71,8 @@ def clear():
 def MR_Saga():
     clear()
     os.system('xdg-open https://www.facebook.com/profile.php?id=61556151290704/')
-    print(f'{B} [{warna}01{P}] RANDOM CLONING ')
-    print(f'{B} [{warna}00{P}] EXIT TERMINAL ')
+    print(f'{B} [{warna}{P}01{P}] RANDOM CLONING ')
+    print(f'{B} [{warna}{P}00{P}] EXIT TERMINAL ')
     linex()
     option=input(f' {byellow}[{warna}??{byellow}] CHOISIR MENU >> ')
     if option in ['01','1']:
@@ -83,7 +83,7 @@ def MR_Saga():
 def BD_CLONING():
     user=[]
     clear()
-    print(' 261=0 Madagascar : [032] [034] [038] [033]')
+    print(' Madagascar SIM : [032] [034] [038] [033]')
     code=input(' ENTER SIM CODE >> ')
     linex()
     print(' EXAMPLE LIMIT : [1000] [2000] [5000] [10000]')
