@@ -53,13 +53,13 @@ logo=(f'''{M}
     VMMMP"    dMP dMP    VMMMP"     dMP dMP    
                                                                                     
 
-{warna}--------------------------------------------{B}
- Owner    : {H}RedFargun{H}
- TOOL NAME : {warna}{H}Nathan{H}{warna}
- STATUE : {H}PAID{H}
- Facebook : {bblue}Lŭčkã Sënt{bblue}
- Tools    : {warna}[{H}VERSION 0.1.0{warna}]{warna}
---------------------------------------------{B}''')
+{warna}✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡✡{M}
+✺   Owner     <==> {H}RedFargun{H}                           ✺
+✺   TOOL NAME <==> {warna}{H}Nathan{H}{warna}                ✺
+✺   STATUE    <==> {H}PAID{H}                                ✺
+✺   Facebook  <==> {bblue}Lŭčkã Sënt{bblue}                  ✺
+✺   Tools     <==> {warna}[{H}VERSION 0.1.0{warna}]{warna}   ✺
+♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕{M}''')
 #-------------linex def -------------#
 def linex():
     print(f'{warna}--------------------------------------------{B}')
