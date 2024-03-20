@@ -43,7 +43,7 @@ oks=[]
 cps=[]
 loop=0
 #-------------logo-----------------#
-logo=(f'''{B}
+logo=(f'''{M}
 
                           
        .dMMMb     .aMMMb    .aMMMMP     .aMMMb 
@@ -54,11 +54,11 @@ logo=(f'''{B}
                                                                                     
 
 {warna}--------------------------------------------{B}
- Owner    : {M}RedFargun{M}
- TOOL NAME : {warna}{P}Nathan{P}{warna}
+ Owner    : {H}RedFargun{H}
+ TOOL NAME : {warna}{H}Nathan{H}{warna}
  STATUE : {H}PAID{H}
  Facebook : {bblue}Lŭčkã Sënt{bblue}
- Tools    : {warna}[{M}VERSION 0.1.0{warna}]{warna}
+ Tools    : {warna}[{H}VERSION 0.1.0{warna}]{warna}
 --------------------------------------------{B}''')
 #-------------linex def -------------#
 def linex():
@@ -137,7 +137,7 @@ def method_crack(ids, passlist):
                 else:
                     print('\r\r \033[1;32m[Saga-OK] '+str(uid)+' | '+pas+'\033[1;37m')
                     coki=";".join(i["name"]+"="+i["value"] for i in reqx["session_cookies"])
-                    print('\033[1;32m [COOKIES] '+coki)
+                    print('\033[1;31mm [COOKIES] '+coki)
                     # Vérifier si le dossier Saga-IDS existe et le créer si nécessaire
                     if not os.path.exists("/sdcard/Saga-IDS"):
                         os.makedirs("/sdcard/Saga-IDS")
