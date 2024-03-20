@@ -54,11 +54,11 @@ logo=(f'''{M}
                                                                                     
 
 {warna}✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺{H}
-{H}✺>>>>>>>>>{H}  {M}Owner{M}     {H}<==>{H} {M}RedFargun{M}  <<<<<<<<<✺
-{H}✺>>>>>>>>>{H}  {M}TOOL NAME{M} {H}<==>{H} {warna}{M}Nathan{M}{warna}  <<<<<<<<<<<<✺
-{H}✺>>>>>>>>>{H}  {M}STATUE{M}    {H}<==>{H} {M}PAID{M}  <<<<<<<<<<<<<<✺
-{H}✺>>>>>>>>>{H}  {M}Facebook{M}  {H}<==>{H} {M}Lŭčkã Sënt{M}  <<<<<<<<✺
-{H}✺>>>>>>>>>{H}  {M}Tools{M}     {H}<==>{H} {warna}[{M}VERSION 0.1.0{warna}]{warna}  <<<✺
+{H}✺>>>>>>>>>{H}  {M}Owner{M}     {H}<==>{H} {M}RedFargun{M}  {H}<<<<<<<<<✺{H}
+{H}✺>>>>>>>>>{H}  {M}TOOL NAME{M} {H}<==>{H} {warna}{M}Nathan{M}{warna}     {H}<<<<<<<<<✺{H}
+{H}✺>>>>>>>>>{H}  {M}STATUE{M}    {H}<==>{H} {M}PAID{M}       {H}<<<<<<<<<✺{H}
+{H}✺>>>>>>>>>{H}  {M}Facebook{M}  {H}<==>{H} {M}Lŭčkã Sënt{M}  {H}<<<<<<<<✺{H}
+{H}✺>>>>>>>>>{H}  {M}Tools{M}     {H}<==>{H} {warna}[{M}VERSION 0.1.0{warna}]{warna}  {H}<<<✺{H}
 ✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺{H}''')
 #-------------linex def -------------#
 def linex():
