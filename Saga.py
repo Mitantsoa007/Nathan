@@ -54,11 +54,11 @@ logo=(f'''{M}
                                                                                     
 
 {warna}✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺{M}
-✺>>>>>>>>>  Owner     <==> {H}RedFargun{H}<<<<<<<✺
-✺>>>>>>>>>  TOOL NAME <==> {warna}{H}Nathan{H}{warna}<<<<<<<✺
-✺>>>>>>>>>  STATUE    <==> {H}PAID{H}<<<<<<<✺
-✺>>>>>>>>>  Facebook  <==> {bblue}Lŭčkã Sënt{bblue}<<<<<<<✺
-✺>>>>>>>>>  Tools     <==> {warna}[{H}VERSION 0.1.0{warna}]{warna}<<<<<<<✺
+✺>>>>>>>>>  Owner     <==> {M}RedFargun{M}  <<<<<<<<<✺
+✺>>>>>>>>>  TOOL NAME <==> {warna}{H}Nathan{H}{warna}  <<<<<<<<<<<<✺
+✺>>>>>>>>>  STATUE    <==> {M}PAID{M}  <<<<<<<<<<<<<<✺
+✺>>>>>>>>>  Facebook  <==> {bblue}Lŭčkã Sënt{bblue}  <<<<<<<<<✺
+✺>>>>>>>>>  Tools     <==> {warna}[{M}VERSION 0.1.0{warna}]{warna}  <<<✺
 ✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺{M}''')
 #-------------linex def -------------#
 def linex():
