@@ -58,7 +58,7 @@ logo=(f'''{B}
  TOOL NAME : {warna}{P}Nathan{P}{warna}
  STATUE : {H}PAID{H}
  Facebook : {bblue}Lŭčkã Sënt{bblue}
- Tools    : {warna}[{M}VERSION 1.3{warna}]{warna}
+ Tools    : {warna}[{M}VERSION 0.1.0{warna}]{warna}
 --------------------------------------------{B}''')
 #-------------linex def -------------#
 def linex():
